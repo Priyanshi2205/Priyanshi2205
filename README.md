@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshi2205
 - 👀 I’m interested in learning new Languages and explore them
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently aiming towards Data Science.
 - 📫 How to reach me -pihumittal2001@gmail.com
 
 <!---
